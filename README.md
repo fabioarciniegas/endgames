@@ -1,4 +1,4 @@
-[editor on GitHub](https://github.com/fabioarciniegas/endgames/endgames.md)
+[editor on GitHub](endgames.md)
 
 ## Welcome to GitHub Pages
 
