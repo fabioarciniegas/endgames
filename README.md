@@ -1,4 +1,4 @@
-[editor on GitHub](endgames.md)
+[editor on GitHub](./endgames.html)
 
 ## Welcome to GitHub Pages
 
