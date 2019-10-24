@@ -1,0 +1,292 @@
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: ---- Strange races and complex routes ----"]
+[Site "https://lichess.org/study/4LldCtpL/1l8MrvkR"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "06:26:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/8/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+ *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: e.g. K + 2p v K + 3p correspondent squares"]
+[Site "https://lichess.org/study/4LldCtpL/syuBYprf"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "06:18:23"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/2p5/k1p1K3/p1P5/P7/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ goal for white is to get to pawn in c6. } { [%csl Gb6,Gd6,Gb7,Gd7,Gb8,Gd8] }
+1. Kf5 { Black must arrive to the vecinity of c6 in a way that he is not kicked out by trebuchet } (1. Kd6 Kb6 { Immediately zeros. No way to ever kick black out of b6 and b7 }) 1... Kb6 { The key to it, is the opposition. notice how we keep approaching in a way that holds the opposition } 2. Kf6 Kb7 3. Kf7 Kb6 4. Ke8 Kc7 5. Ke7 Kb6 6. Kd6 Kb7 7. Kd7 Kb6 8. Kc8 Ka6 9. Kc7 Ka7 10. Kxc6 *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: e.g. K + 2P v K + 2P"]
+[Site "https://lichess.org/study/4LldCtpL/i8VvgX9u"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "06:26:08"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/1p6/1p6/k7/2P5/PK6/8 b - - 0 1"]
+[SetUp "1"]
+
+1... b4 2. c4 b3 3. axb3+ Kb4 4. Kc2 b5 5. cxb5 Kxb5 6. Kc3 { All about simplifying to known theory } *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: eg  K + 2P v K + 2P Far excursions"]
+[Site "https://lichess.org/study/4LldCtpL/0f8p7Dv9"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "07:08:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/1p4k1/1P3p2/5K2/6P1/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Ke4 { looks difficult but it really is all about keeping close enough to the opponents pawn and mined squares thus simplifying to the queenside } 1... Kg4 2. Kd4 (2. Ke5 Kg5 3. Kd5 Kg4 4. Ke4 Kg5 5. Ke5 Kg4 6. Kf6 Kg3 7. Kf5) 2... Kg3 3. Ke5 Kg4 4. Kf6 (4. Kd5 Kg3 5. Ke5 Kg4 6. Kf6 Kg3 7. Kf5 { notice black can no longer come here } { [%csl Rg4] }) 4... Kg3 5. Kf5 f3 6. gxf3 Kxf3 7. Ke5 *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: eg Alekhine Yates K + 4p v K + 3p"]
+[Site "https://lichess.org/study/4LldCtpL/QQpdQjzn"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "07:14:29"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/4k3/8/1p2Pp2/p7/P1K1P3/1P6/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kd3 (1. Kd4?? { obvious trebuchet } 1... Ke6 2. Kc5 Kxe5) 1... Kd7 2. e4 { again, cannot jump directly into d4 } 2... f4 3. Ke2 Ke6 4. Kf2 { trebuchet even when filled with a pawn } 4... Kxe5 5. Kf3 Kd6 (5... Ke6 6. Kxf4) 6. Kxf4 Kc5 7. Ke3 Kc4 8. e5 { The actual game went differently ? but this works. } (8. Kd2 Kd4 9. e5 Kxe5 10. Kc3 Kd5 11. b3) 8... Kd5 9. Kf4 Ke6 10. Ke4 Ke7 11. Kd5 Kd7 12. Kc5 Ke6 13. Kxb5 Kxe5 14. Kxa4 Ke4 15. Kb5 Kd3 16. a4 Kd4 17. a5 Ke5 18. Kc5 Kf6 *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: eg K + 2P v K +3P  preventing king's help"]
+[Site "https://lichess.org/study/4LldCtpL/d0OpqNHg"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "07:30:32"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "6k1/p7/3K2p1/1P5p/7P/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kd5 Kf7 2. Ke5 { [%csl Rf6,Re6] } 2... Ke7 3. Kd5 { [%csl Re6] } 3... Kf6 (3... Kd7 4. Ke5 { [%csl Rd6,Rc6] } 4... Ke7 5. Kd5) 4. Kc6 g5 5. hxg5+ Kxg5 6. Kb7 h4 7. Kxa7 h3 8. b6 h2 9. b7 h1=Q 10. b8=Q Qa1+ 11. Kb7 Qb1+ 12. Kc7 Qh7+ 13. Kb6 Qb1+ 14. Kc7 *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: eg K +2P v K + P more non trivial draws"]
+[Site "https://lichess.org/study/4LldCtpL/NuugCBzg"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "07:34:15"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/2p5/7k/2pP4/8/6K1/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kg4 Kg7 2. Kf3 c4 3. Ke3 c3 4. Kd3 Kf6 5. Kxc3 Ke5 6. Kc4 Kd6 7. Kd4 c6 8. dxc6 Kxc6 *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: eg  K + 2P v K + 2P curiosities really"]
+[Site "https://lichess.org/study/4LldCtpL/8O3XgprG"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "07:37:05"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/2p5/P1k5/P5p1/6Kp/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kh3 Kb5 2. a7 Kxa5 3. a8=Q+ *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: e.g K + P v K + P strange races"]
+[Site "https://lichess.org/study/4LldCtpL/d7lGFyHp"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "07:39:05"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "7K/8/k1P5/7p/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kg7 { oddly in time to support } 1... h4 (1... Kb6 2. Kf6 h4 (2... Kxc6 3. Kg5) 3. Ke5 Kxc6 4. Kf4) 2. Kf6 h3 3. Ke6 Kb6 4. Kd6 h2 5. c7 h1=Q 6. c8=Q *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: e.g K + P v K + P strange races"]
+[Site "https://lichess.org/study/4LldCtpL/AJvQQ8xk"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "16:19:10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "3K4/7p/3k4/P7/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kc8 h5?? (1... Kc6 2. Kb8 Kb5 3. Kb7 (3. a6 Kxa6 4. Kc8)) 2. a6 h4 3. a7 h3 4. a8=Q *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: e.g K + P v K + P strange races"]
+[Site "https://lichess.org/study/4LldCtpL/1LnF1hBr"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "16:22:24"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/2p4K/8/7k/8/8/6PP/8 w - - 0 1"]
+[SetUp "1"]
+
+{ King Can't cut through g6 and going around is too slow. } { [%csl Rg6][%cal Rh7g6] }
+1. g4+ Kxg4 2. Kg6 c5 { same idea } 3. h4 Kxh4 (3... c4 4. h5 c3 5. h6 c2 6. h7 c1=Q 7. h8=Q) 4. Kf5 c4 5. Ke4 { [%cal Gc4f1] } *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: e.g K + P v K + P strange races Ljubojevic Walter"]
+[Site "https://lichess.org/study/4LldCtpL/X7ayooHU"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "16:29:35"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/5p2/2k5/K7/8/1P6/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ just running won't do the trick. }
+1... Kd5 (1... f5 2. Kb4 f4 3. Kc3 f3 4. Kd2 f2 5. Ke2 f1=Q+ 6. Kxf1) 2. Kb4 Kd4 { cutting the king off } { [%csl Rc4,Rc3,Rc5] } 3. Ka3 f5 4. Kb2 f4 5. Kc1 Ke3 6. Kd1 Kf2 { a classic } 7. b4 f3 8. b5 Kg2 9. b6 f2 10. Kd2 f1=Q *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: e.g K + P v K + P strange races"]
+[Site "https://lichess.org/study/4LldCtpL/rXR8s9Zt"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "16:32:27"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/2p5/6K1/8/8/5k2/P7/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Races are often about preventing the other king from getting to yours, not about moving faster }
+1. Kf5 { [%csl Re4] } 1... c5 2. Ke5 { [%csl Re4,Rf4] } 2... c4 3. Kd4 { [%csl Re4,Re3] } 3... c3 4. Kxc3 *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: e.g K + P v K + P strange races"]
+[Site "https://lichess.org/study/4LldCtpL/KsdsD9fT"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "16:35:03"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/1p6/1P6/8/7K/8/8/1k6 w - - 0 1"]
+[SetUp "1"]
+
+{ can't draw by just getting the black pawn. have to draw by having the opposition when black takes the white pawn. }
+1. Kg3 Ka2 2. Kf2 Kb3 3. Ke3 Kc3 4. Ke2 Kb4 5. Kd3 Kc5 6. Kc3 Kxb6 7. Kb4 *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: e.g K + P v K + P strange races"]
+[Site "https://lichess.org/study/4LldCtpL/aG78NCJQ"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "16:40:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/6p1/8/5p1P/5P2/6P1/8/5K1k w - - 0 1"]
+[SetUp "1"]
+
+1. Ke1 Kg1 { create a passed pawn } { [%csl Rf2] } (1... Kg2 2. g4 fxg4 3. f5 g3 4. f6 (4. h6 { The huge difference is here you don't queen with tempo (no check) } 4... gxh6 5. f6 Kh3 6. f7 g2 7. f8=Q g1=Q+) 4... gxf6 5. h6 Kh3 (5... Kh2 6. h7 g2 7. h8=Q+) 6. h7 g2) *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: e.g K + P v K + P strange races Winants Bo"]
+[Site "https://lichess.org/study/4LldCtpL/JDJNhfxN"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "16:55:25"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/p4p2/P4pk1/8/5KP1/8 b - - 0 1"]
+[SetUp "1"]
+
+1... f3 { Always simplify to known scenarios } 2. g3 (2. gxf3+?? Kh3 3. f4 Kg4 4. Ke3 Kg3 5. Ke2 Kxf4) 2... f4 3. gxf4 Kxf4 4. Kf1 Ke3 5. Ke1 f2+ 6. Kf1 Kd2 7. Kxf2 Kc1 8. Ke1 Kc2 9. Ke2 Kb3 10. Kd3 Kxa4 11. Kc4 Ka3 12. Kc3 *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: ---- Triangulation ----"]
+[Site "https://lichess.org/study/4LldCtpL/W2vmWU41"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "17:22:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/3k1p2/2p2Pp1/2P1p1P1/1P6/4K3/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Ke5 { Triangulation is simply loosing a move by going on a little triangle instead of directly to the square you want. Here for motivation and to mimic silman we start with black to move } 2. Ke3 Kd6 3. Kxe4 *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: actual triangulation"]
+[Site "https://lichess.org/study/4LldCtpL/b2ZpL2AS"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "17:25:10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/3k1p2/2p2Pp1/2P1p1P1/1P6/4K3/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [%cal Re2e3,Ge2d2,Gd2e3] }
+1. Kd2 e3+ (1... Kc6 2. Ke3 Kb7 3. Kxe4) 2. Ke2 (2. Kxe3? Ke5 { complicating things } 3. Kd3 Kf4) 2... Kc6 (2... Ke5 3. Kxe3 { much more principled, don't let black's king into your pawn chain. }) *
+
+
+[Event "ENDGAMES Pawns 3 - Outflanking, etc.: ---- Outflanking  ----"]
+[Site "https://lichess.org/study/4LldCtpL/QHIx94Kv"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "17:49:20"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "k7/8/8/8/8/8/8/K7 b - - 0 1"]
+[SetUp "1"]
+
+{ to get to the target squares white will have to put one file between him and the other king and loose the opposition but in doing so allowing to advance. Opposition is means to an end.
+
+Outflank at g2 and not earlier. Outflank again on h4. grab opposition on g4 } { [%csl Gf8,Gg8,Gg2,Gh8][%cal Ga8b8,Ga1a2,Gb8c8,Ga2b2,Gc8d8,Gb2c2,Gd8e8,Gc2d2,Ge8f8,Gd2e2,Gf8g8,Ge2f2,Gf2g2,Gg8h8,Gg2f3,Gh8g7,Gf3g3,Gg7f7,Gg3h4,Gf7g6,Gg6h6,Gh4g4,Gg4f5,Gh6g7,Gf5g5] }
+ *

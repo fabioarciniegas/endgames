@@ -1,0 +1,448 @@
+[Event "ENDGAMES Pawns 1 - KP v P: ----- King + Pawn  vs King -----"]
+[Site "https://lichess.org/study/L8YMJc47/MTAaQLNk"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "04:13:21"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ This study contains everything from Silman from Part 3 onwards (part 2 and 1 are too basic <1199).
+They are not organized exactly as in silman (e.g. not broken by player strength) but by increasing complexity. Also there is much more material as it combines with the exercises given by Sabina. }
+ *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: You need both King in front AND opposition"]
+[Site "https://lichess.org/study/L8YMJc47/ho0Ac5LL"]
+[Result "*"]
+[UTCDate "2018.08.22"]
+[UTCTime "04:07:31"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/4k3/8/3PK3/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Black to move: draw.
+White to move: draw as well! no way to put the king in front. }
+1. Kd4 Kd6 2. Ke4 Kc7 3. Ke5 Kd7 4. d6 Kd8 5. Ke6 Ke8 6. d7+ Kd8 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: King ahead not enough, must be front plus opposition"]
+[Site "https://lichess.org/study/L8YMJc47/NAzncs3x"]
+[Result "*"]
+[UTCDate "2018.08.22"]
+[UTCTime "04:10:30"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/5k2/8/4K3/3P4/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Not enough to be ahead, king needs to be in front }
+1... Ke7 2. Kd5 Kd7 3. Kc5 Kc7 4. d5 Kd7 5. d6 Kd8 6. Kc6 Kc8 7. d7+ Kd8 8. Kd6 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: King ahead of pawn and black cannot get the opposition"]
+[Site "https://lichess.org/study/L8YMJc47/jNqt4nbF"]
+[Result "*"]
+[UTCDate "2018.08.22"]
+[UTCTime "04:12:53"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/5k2/8/4K3/3P4/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kd6 Ke8 2. Ke6 Kd8 3. d5 Ke8 4. d6 Kd8 5. d7 Kc7 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: eg. k+p v k"]
+[Site "https://lichess.org/study/L8YMJc47/dnbjoGYu"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "04:20:21"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/3k4/3P4/3K4/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ draw no matter who's to play }
+1. Ke3 (1. Ke4 Kd7 2. Ke5 Ke7 3. d6+ Kd7 4. Kd5 Kd8 5. Kc6 Kc8) 1... Kd7 2. Kd3 Kd6 3. Kd4 { (only to show it wouldn't matter if it were black's turn to play) } 3... Kd7 4. Kc5 (4. Kd3 Kd6) 4... Kc7 5. d6+ Kd7 6. Kd5 Kd8 7. Kc6 Kc8 8. d7+ Kd8 9. Kb6 Kxd7 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: eg. k+p v k opposition by pawn move"]
+[Site "https://lichess.org/study/L8YMJc47/ydlaBf5s"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "04:25:57"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/3k4/8/3K4/8/3P4/8 w - - 0 1"]
+[SetUp "1"]
+
+1. d3! Kc6 2. Ke5 Kd7 3. Kd5 Ke7 4. Kc6 Ke6 5. d4 Ke7 6. d5 Kd8 7. Kd6 Ke8 8. Kc7 Ke7 9. d6+ Ke6 10. d7 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: eg. k+p v k long opposition draw"]
+[Site "https://lichess.org/study/L8YMJc47/JKAxnpjE"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "04:29:34"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "4k3/8/8/8/8/8/4P3/4K3 b - - 0 1"]
+[SetUp "1"]
+
+1... Ke7 2. Kd2 Kd6 3. Ke3 Ke5 4. Kf3 Kf5 5. e3 Ke5 6. e4 Kf6 7. Kg2 Ke5 8. Kf2 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: eg. k+p v k long opposition win"]
+[Site "https://lichess.org/study/L8YMJc47/ZJrW1a4g"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "04:30:44"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "4k3/8/8/8/8/8/4P3/4K3 w - - 0 1"]
+[SetUp "1"]
+
+1. Kd2 Ke7 2. Ke3 Kd6 3. Kd4 Ke6 4. Ke4 Kd6 5. Kf5 Ke7 6. Ke5 Kd7 7. Kf6 Kd6 8. e4 Kd7 9. Kf7 Kd6 10. Kf6 Kd7 11. e5 Ke8 12. Ke6 Kf8 13. Kd7 Kf7 14. e6+ Kf6 15. e7 Ke5 16. e8=Q+ *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Pawn on 5th, King on 6th guaranteed win regardless of turn"]
+[Site "https://lichess.org/study/L8YMJc47/JFaibvPt"]
+[Result "*"]
+[UTCDate "2018.08.22"]
+[UTCTime "04:14:56"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "5k2/8/4K3/3P4/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kd7 (1. Kf6 Ke8 2. Kf5 Kf8 3. Ke5 Kf7 4. Kf5 Kf8 5. Ke6 Ke8 6. Kd6 Kd8 7. Ke6 Ke8 8. d6 Kd8 9. d7 Kc7 10. Ke7 Kb6) 1... Kg7 2. d6 Kf8 3. Kc7 Kf7 4. d7 Ke6 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Pawn on 5th, King on 6th guaranteed win (btm)"]
+[Site "https://lichess.org/study/L8YMJc47/gyhbL65t"]
+[Result "*"]
+[UTCDate "2018.08.22"]
+[UTCTime "04:15:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "5k2/8/4K3/3P4/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Ke8 2. Kd6 (2. d6 Kd8 3. d7 Kc7 4. Ke7 Kb6 5. d8=Q+) 2... Kd8 3. Ke6 Kc7 4. d6+ *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Pawn on 6th, king on 6th NOT always a win, you need the opposition"]
+[Site "https://lichess.org/study/L8YMJc47/7Iu7G016"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "05:24:00"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "5k2/8/3PK3/8/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Kg8 (1... Ke8 2. d7+ Kd8 3. Kd5) 2. Kf5 Kh8 3. Ke4 Kg8 4. Ke5 Kg7 5. Ke6 Kf8 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Rook pawns draw"]
+[Site "https://lichess.org/study/L8YMJc47/0IBuMT97"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "04:37:09"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/1k6/8/1K6/P7/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ white has king in front, has the opposition and still is a draw.
+Weaker side goes on corner and that's that. }
+1... Ka8 2. a5 Ka7 3. a6 Ka8 4. Kb6 Kb8 5. a7+ Ka8 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Rook pawns draw - even with king in front"]
+[Site "https://lichess.org/study/L8YMJc47/W8hzW1uq"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "05:20:06"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/K1k5/8/P7/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Ka8 (1. a6 Kc8 2. Kb6 Kb8 3. a7+ Ka8 4. Ka5) 1... Kc8 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: eg. k+p v k rook pawns draw"]
+[Site "https://lichess.org/study/L8YMJc47/ThITRP6A"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "05:56:36"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/p7/P1K1k3/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kb7 Kd7 2. Kxa7 Kc7 3. Ka8 Kc8 4. Ka7 Kc7 5. Ka8 Kc8 6. Ka7 Kc7 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Retaking the opposition opportunistically"]
+[Site "https://lichess.org/study/L8YMJc47/mHrruaX9"]
+[Result "*"]
+[UTCDate "2018.08.22"]
+[UTCTime "04:21:35"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "5k2/8/3P4/8/6K1/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ would seem like a draw since black seems to get the opposition but the pawn is already on the 6th and white can snatch the opposition back as shown }
+1. Kf5 Kf7 2. Ke5 { [%csl Re7] } 2... Kf8 { [%csl Re6] } (2... Kg7 3. Ke6)  (2... Ke8 3. Ke6) 3. Kf6 (3. Ke6) 3... Ke8 4. Ke6 Kd8 5. d7 Kc7 6. Ke7 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: eg. k + p v p more opposition samples"]
+[Site "https://lichess.org/study/L8YMJc47/1E59FqnQ"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "05:36:32"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "2k5/8/8/8/1PK5/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Kb8! *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Rows 2-4: Win only if in king is in front by two squares"]
+[Site "https://lichess.org/study/L8YMJc47/Eb3ZStqK"]
+[Result "*"]
+[UTCDate "2018.08.22"]
+[UTCTime "05:00:27"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "4k3/8/8/8/8/8/4P3/4K3 b - - 0 1"]
+[SetUp "1"]
+
+{ if it were white to move obvious win. Black can prevent white to get to magic squares. } { [%csl Gd4,Ge4,Gf4] }
+1... Ke7 2. Kd1! (2. Kd2 Ke6 3. Ke3 Ke5) 2... Ke6 3. Kd2 Kd6!! { only way to draw. Taking the distant opposition } (3... Ke5 4. Ke3)  (3... Kd5 4. Kd3 Ke5 5. Ke3)  (3... Kf6 4. Kd3 Ke5 5. Ke3 Kd5 6. Kf4 Kd4 7. e4 Kc5 8. Kf5 Kc6 9. Kf6 Kd7 10. e5 Ke8 11. Ke6 Kd8 12. Kf7 Kd7) 4. Kd3 Kd5 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Trebuchet - any to move loses"]
+[Site "https://lichess.org/study/L8YMJc47/0q5JpVZD"]
+[Result "*"]
+[UTCDate "2018.08.23"]
+[UTCTime "20:53:43"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/5pK1/4kP2/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Trebuchet is a kind of zugzwang, in this case whoever has to move away from the pawn loses. }
+1. Kh4 Kxf4 2. Kh3 Kf3 3. Kh2 f4 4. Kg1 Ke2 5. Kg2 f3+ *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Applied Trebuchet"]
+[Site "https://lichess.org/study/L8YMJc47/AFfCdfpd"]
+[Result "*"]
+[UTCDate "2018.08.23"]
+[UTCTime "20:56:45"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/7p/4p2K/4P3/1kP5/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kxh6 Kxc3 2. Kg5 Kd3! (2... Kd4?? 3. Kf5 Kc5 4. Kxe5 Kc6 5. Ke6 Kc7 6. e5 Kc6 7. Kf7 Kd7) 3. Kf5 { forced. } 3... Kd4 4. Kg4 Kxe4 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Pseudo trebuchet, not a win"]
+[Site "https://lichess.org/study/L8YMJc47/LBB1uG2O"]
+[Result "*"]
+[UTCDate "2018.08.23"]
+[UTCTime "21:00:55"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/5k2/3Kp3/4P3/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Kf7 { applying basic opposition theory } 2. Kxe5 Ke7 3. Kf5 Kf7 4. e5 Ke7 5. e6 Ke8 6. Kf4 Ke7 7. Ke5 Ke8 8. e7 Kxe7 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Pseudo trebuchet, win b/c 6th rank"]
+[Site "https://lichess.org/study/L8YMJc47/JooUm1RU"]
+[Result "*"]
+[UTCDate "2018.08.23"]
+[UTCTime "21:05:57"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/5k2/3Kp3/4P3/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Kf8 2. Kxe6 Ke8 { opposition, but meaningless because pawn can get to the 6th with King next to it. } 3. Kd6 Kd8 4. e6 Ke8 5. e7 Kf7 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: K v K + 2 doubled pawns"]
+[Site "https://lichess.org/study/L8YMJc47/rN5jVs9f"]
+[Result "*"]
+[UTCDate "2018.08.23"]
+[UTCTime "21:21:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/6k1/8/6P1/5KP1/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kf3 { Black to move immediate draw. 1... Kg4 and g3 pawn is lost. } 1... Kf5 2. g4+ Kg5 3. Kg3 { white does his best to play as if K v KP, the extra pawn will just be one tempo at the key moment. } 3... Kg6 4. Kf4 Kf6 5. g5+ { DONT push both pawns at the same time, it increases chances of stalemate. } 5... Kg6 6. Kg4 Kg7 7. Kf5 Kf7 8. g6+ Kg7 9. Kg5 Kg8 10. Kf6 Kf8 11. g7+ Kg8 12. g3 Kh7 13. Kf7 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Rook Pawns (stalemating stronger side)"]
+[Site "https://lichess.org/study/L8YMJc47/89MJXqsq"]
+[Result "*"]
+[UTCDate "2018.08.23"]
+[UTCTime "21:45:35"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/4k2K/8/8/7P/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ if black were to move it would be an easy win Kg7 protecting the queening square. }
+1... Kf7 2. h5 { If the black king is in any of these squares it doesn't matter where white's is, it is a draw. } { [%csl Gh6,Gh7,Gg7,Gf7,Gf8,Gg8,Gh8] } 2... Kf8 3. Kh8 Kf7 4. h6 Kf8 5. Kh7 Kf7 6. Kh8 Kf8 7. h7 Kf7 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: The square of the pawn"]
+[Site "https://lichess.org/study/L8YMJc47/VdsV3GfS"]
+[Result "*"]
+[UTCDate "2018.08.23"]
+[UTCTime "21:52:45"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/5k2/8/8/P7/8/8/7K b - - 0 1"]
+[SetUp "1"]
+
+{ If it were white to move it would be a win. } { [%cal Ga4e8,Be4e8,Ba8e8,Ba4a8,Ba4e4] }
+ *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: eg. k+p v k long square two squares for pawn"]
+[Site "https://lichess.org/study/L8YMJc47/ahbeHnCF"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "05:48:57"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/1k6/8/8/8/8/7P/K7 w - - 0 1"]
+[SetUp "1"]
+
+1. h4 (1. Ka2 Kc7 2. h4 Kd7 3. h5 Ke7 4. h6 Kf7 5. h7 Kg7) *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Fox in the chicken coup"]
+[Site "https://lichess.org/study/L8YMJc47/SydzP9bG"]
+[Result "*"]
+[UTCDate "2018.08.23"]
+[UTCTime "21:55:48"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/4k1p1/6Pp/3PK2P/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Passed and outside of the sphere of battle are useful as either as promotions themselves or as chicken coup }
+1. d5+ Kd6 2. Kd4! { [%csl Ge5,Gf6,Gg6,Gh5] } 2... Ke7 (2... Kd7 3. Ke5 Ke7 4. d6+ Kf7 5. Kd5 Kf8 6. Ke6 Ke8 7. Kf6) 3. Ke5! Kf7 4. d6 Ke8 5. Kf6 Kd7 6. Kxg6 Kxd6 7. Kxh5 Ke6 8. Kg6 Ke7 9. Kg7 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Outside passed pawn, even material"]
+[Site "https://lichess.org/study/L8YMJc47/N5RtkDIy"]
+[Result "*"]
+[UTCDate "2018.08.23"]
+[UTCTime "22:07:11"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/5p2/1p1k2p1/6P1/1PPK4/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. c5+ bxc5+ 2. bxc5+ Ke6 3. Kc4! (3. c6?? Kd6 4. c7 Kxc7 5. Ke5 Kd7)  (3. Ke4? f5+ 4. gxf6 Kxf6 5. c6 (5. Kd5 Ke7 (5... g5 6. Kd6 g4 7. c6 g3 8. c7 g2 9. c8=Q g1=Q 10. Qf8+ Kg5 11. Qg8+ Kf4 12. Qxg1)) 5... Ke6) 3... f6 4. gxf6 Kxf6 5. Kb5 g5 6. c6 Ke7 7. Kb6 g4 8. c7 Kd7 9. Kb7 *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: The deep freeze"]
+[Site "https://lichess.org/study/L8YMJc47/FBLXKYT7"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "06:46:40"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/1p4p1/p7/6P1/P6P/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ no kings for illustration. if White to move, it can stop both of black a,b pawns. If black advances, white creates a passed pawn. } { [%cal Ga4a5,Gg7g6] }
+ *
+
+
+[Event "ENDGAMES Pawns 1 - KP v P: Two squares ahead always does the trick because can always get opposition"]
+[Site "https://lichess.org/study/L8YMJc47/CYtpDu7F"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "06:53:53"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/3k4/8/3K4/8/3P4/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Ke4 (1. d3) 1... Ke6 2. d3 Kd6 3. Kd4 *

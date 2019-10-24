@@ -1,0 +1,582 @@
+[Event "ENDGAMES Pawns 2 - KP vs K2P: ---- King vs King and Two Pawns ---"]
+[Site "https://lichess.org/study/ihw7SunV/TFqBrZHx"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "15:12:23"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "K7/8/8/3k4/5P2/4P3/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Includes all of part 4 of Silman (class C) but also much more from Sabina }
+ *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: K v K+2P connected"]
+[Site "https://lichess.org/study/ihw7SunV/WH740N8c"]
+[Result "*"]
+[UTCDate "2018.06.13"]
+[UTCTime "16:48:27"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "K7/8/8/3k4/5P2/4P3/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ People loose K+2P by stalemate or when they blunder one.
+TWO connected pawns can defend themselves against a single king. }
+1. Kb8 Ke4 2. Kc7! { don't rush with the pawn move! } { [%cal Re4e3] } (2. f5 Kxf5) 2... Kd3 3. f5 Kxe3 4. f6 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: eg. k + 2p v k - rook pawns"]
+[Site "https://lichess.org/study/ihw7SunV/XJxLrnoz"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "15:16:34"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/Pk6/1P6/8/8/8/6K1/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kf3 Ka8 2. Ke4 Kb7 3. Kd5 Ka8 4. Kc5 Kb7 5. a8=Q+ Kxa8 6. Kc6 Kb8 7. b7 Ka7 8. Kc7 Ka6 9. b8=Q { even rook pawns win when there are two connected pawns. } *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: K v K +2P same rank one file apart"]
+[Site "https://lichess.org/study/ihw7SunV/Ms4zBLxA"]
+[Result "*"]
+[UTCDate "2018.06.13"]
+[UTCTime "16:54:10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/6k1/8/5P1P/8/8/K7 b - - 0 1"]
+[SetUp "1"]
+
+{ they can take care of themselves. if black approaches one, black advances the other }
+1... Kh5 2. f5 Kh6 3. Kb2! Kh7 4. h5 Kg7 5. Kc3 Kf6 6. h6 Kf7 7. Kd4 Kg8 8. f6 Kf7 9. h7 Kxf6 10. h8=Q+ *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: K v K + 2p - two files apart"]
+[Site "https://lichess.org/study/ihw7SunV/krdygPQU"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "15:29:10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/4k3/8/4P2P/8/8/K7 w - - 0 1"]
+[SetUp "1"]
+
+{ It depends on how far away the kings are. The two pawns by themselves cannot do it just by running if the defending king can capture one }
+1. h5 Ke5 (1... Kf6 2. Kb2 Kg5 3. Kc3 Kxh5 4. Kd4 Kg6 5. Ke5 Kf7 6. Kd6) 2. h6 Kxe4 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: K v K + 2p - doubled pawns"]
+[Site "https://lichess.org/study/ihw7SunV/AjdDMd3h"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "15:34:08"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/1k6/8/1PK5/1P6/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. b5 Ka5 2. b6 { You have to sacrifice one of them for the opposition. Careful of stalemates! } (2. Kc5??) 2... Kxb6 3. Kb4 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: eg. k + 2p v k - more doubled pawns"]
+[Site "https://lichess.org/study/ihw7SunV/9WjdrRLL"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "15:58:48"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/kP6/2K5/1P6/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. b8=Q+ { same idea. sac one for the opposition. } 1... Kxb8 2. Kb6 Kc8 3. Ka7 Kc7 4. b6+ Kd7 5. b7 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: ---- King and Pawn vs King and Pawn ----"]
+[Site "https://lichess.org/study/ihw7SunV/tPjjVg5A"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "16:08:54"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/8/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+ *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: Essential Race"]
+[Site "https://lichess.org/study/ihw7SunV/ckOf4FOF"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "16:12:28"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/7P/p2k2K1/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Entering the square of the pawn is essential. Plain race won't cut it. } { [%csl Ga3,Ga2,Ga1,Gh6,Gh7,Gh8] }
+1... Ke5 2. Kg5 Ke6 3. h6 Kf7 4. Kg4 a3 5. Kf5 a2 6. h7 a1=Q *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: Mined Squares (Trebuchet)"]
+[Site "https://lichess.org/study/ihw7SunV/9j7oJ8XV"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "16:45:07"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/2K5/4p3/4P3/6k1/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Gotta avoid coming to the mined square (thus getting blown up by trebuchet) BUT must also keep attacking the pawn! } { [%csl Gd5,Gf4] }
+1. Kd6 (1. Kc5?? { avoids the square badly } 1... Kf3 2. Kd5 Kf4 3. Kc4 Kxe4) 1... Kf4 2. Kd5 Kf3 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: eg. k + p v k + p pseudo trebuchet"]
+[Site "https://lichess.org/study/ihw7SunV/ZkqmWFEz"]
+[Result "*"]
+[UTCDate "2019.10.04"]
+[UTCTime "16:19:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/5k2/3Kp3/4P3/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kd6 Kf7 2. Kxe5 Ke7 { can capture but without opposition. Draw. } *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: eg. k + p v k + p race"]
+[Site "https://lichess.org/study/ihw7SunV/oVhcxnX4"]
+[Result "*"]
+[UTCDate "2019.10.17"]
+[UTCTime "22:34:55"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/4K3/p6P/2k5/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kf6 (1. Ke4) 1... a3 2. h5 a2 3. h6 a1=Q 4. Kg7 Qa7+ 5. Kg8 Qb8+ 6. Kg7 Qe5+ 7. Kf7 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: eg. k + p v k + p longer trebuchet"]
+[Site "https://lichess.org/study/ihw7SunV/NekwyizA"]
+[Result "*"]
+[UTCDate "2019.10.17"]
+[UTCTime "22:38:42"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/2K5/5p1k/5P2/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kd5 Kg5 2. Ke4 Kg6 (2... Kf6 3. Kxf4 { technically a draw but with a little ignorance from black it can turn into a win. }) 3. Kxf4 Kf6 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: eg. k+2p v k + p"]
+[Site "https://lichess.org/study/ihw7SunV/Ug7HL2Bh"]
+[Result "*"]
+[UTCDate "2019.10.17"]
+[UTCTime "22:43:21"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/8/5k2/2pP4/2P5/4K3 w - - 0 1"]
+[SetUp "1"]
+
+1. Ke2 Ke5 2. Ke3 Kd5 3. d4! Kc4 4. Ke4 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: Kings attack at the base of pawn chains"]
+[Site "https://lichess.org/study/ihw7SunV/Ea9VTfFH"]
+[Result "*"]
+[UTCDate "2019.10.17"]
+[UTCTime "22:54:07"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/8/5k2/2pP4/2P5/4K3 b - - 0 1"]
+[SetUp "1"]
+
+1... Kf3 { Because kings only attack at the base of the pawn chain this at best can only be a draw for black. Black can never really get to c2. However, if black misplays really hard it can get far enough away that white can run off with d4! } 2. Kd1 Ke3 3. Kc1 Kd4 4. Kb1 Kc5 5. Kc1 Kd4 6. Kb1 Kc5 7. Ka2 Kb4 8. Kb1 Kc5 9. Ka2 Kb4 10. Kb1 Ka3?? { too far! } 11. Ka1 (11. d4 Kb4 12. Ka2 Kc4 13. d5 Kxd5 14. Kb3 Kd4 15. Kb4 Kd5) 11... Kb4 12. Ka2 Ka4 13. Kb1 Kb4 (13... Ka3 14. Ka1 Kb4 (14... Ka4) 15. Ka2 Ka4 16. Kb1 Kb5 (16... Ka3 17. Ka1 Kb4 18. d4 Kc4 19. Ka2 Kxd4 20. Kb3 Kd5 21. Kxc3 Kc5) 17. Kc1 Ka4 18. Kd1 Kb4 19. Ke2 Ka3 20. d4 Kb4 21. Kd3 Ka5) 14. Kc1 Ka4 15. Kd1 Kb4 16. Ke2 Ka3 17. d4 Ka4 18. Kd3 Kb4 19. d5 Kc5 20. Kxc3 Kxd5 21. Kb4 Kc6 22. Kc4 Kb6 23. Kd5 Kc7 24. c3 Kb6 25. c4 Kc7 26. Kc5 Kb7 27. Kd6 Kc8 28. c5 Kb7 29. c6+ Kb8 30. Kd7 Ka7 31. c7 Kb6 32. c8=Q *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: eg k + 2p v k + p"]
+[Site "https://lichess.org/study/ihw7SunV/GDFhWAzS"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "20:39:49"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/1pPk4/1P6/3K4/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kd4 Kc8 2. Kc5 Kd7 3. Kb5 (3. c8=Q+ Kxc8 4. Kd6 Kd8 5. Ke6 Kc8 6. Ke7 Kb8 7. Kd6 Kc8) 3... Kc8 4. Kc5 Kd7 { Again, kings attack pawn chains, even of length 1, at their base. There is no path to it because black's king cuts off one entrance and the lack of files cuts the other. } { [%csl Ga6][%cal Gb5a6,Ga6b7] } *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: eg k + 2p v k + p more room c pawn"]
+[Site "https://lichess.org/study/ihw7SunV/9elopqq1"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "20:42:57"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/2pPk3/2P5/3K4/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kc5 { Now white has clearly more room and can get to the pawn. } 1... Kd8 2. Kb5 Ke7 3. Ka6 Kd6 4. Kb7 Ke5 (4... Ke7 5. Kxc7) *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: e.g. K + 2p v K + P mined square"]
+[Site "https://lichess.org/study/ihw7SunV/SAwrdT2p"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "20:49:21"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/4kPp1/6P1/4K3/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ White must loose a tempo to get to e5 on time and advance the f pawn. }
+1. Kd3 { most tempting way for black, they can try to attack the pawn } (1. Kf4 Kd6) 1... Kf5? (1... Kf7 2. Ke3 Ke6 3. Kd4 Kd6 (3... Kf7 4. Kd5 Kf8 5. f7 Kxf7 6. Kd6 Kg8 7. Ke7 Kg7 8. Ke6 Kh8 9. Kf6 Kh7 10. Kf7 Kh8 11. Kxg6))  (1... Kd6 2. f7 Ke7 3. Ke4 (3. Kc4 Kxf7 4. Kd5 Ke7 5. Ke5 Kf7 6. Kd6 Kg7 7. Ke6 Kh8 8. Kf6 Kh7 9. Kf7 Kh8 10. Kxg6 Kg8 { key here is there is space on h6 to advance } { [%csl Gh6][%cal Gg6h6] } 11. Kh6 Kh8 12. g6 Kg8 13. g7 Kf7 14. Kh7) 3... Kxf7 4. Kd5 Ke7 5. Ke5 Kf7 6. Kd6 Kg8 7. Ke7 Kg7 8. Ke6 Kh8 9. Kf6 Kh7 10. Kf7 Kh8 11. Kxg6 Kg8 12. Kh6 Kf7 13. g6+ Kf8 14. Kh7) 2. f7 Kxg5 3. f8=Q *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: eg k + 2p v k + p rook pawns advanced"]
+[Site "https://lichess.org/study/ihw7SunV/92rFt1gP"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "21:18:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "1k6/8/pPK5/P7/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kd5 Kb7 2. Kc4 Kb8 3. Kc5 Kb7 4. Kd6 Kb8 5. Kd7 Ka8 6. Kc6 Kb8 7. Kd5 Ka8 8. b7+ Kxb7 9. Kd6 Kc8 10. Kc6 Kb8 11. Kb6 Kc8 12. Ka7 Kc7 13. Kxa6 Kc6 14. Ka7 Kc7 15. a6 Kc8 16. Kb6 Kb8 17. a7+ Ka8 { in both 18 and 19, the main idea involves sacking one of the pawns to get into an endgame. On this one there is no room for white to keep in front of the pawn and move away from it (typical rook pawn situation) so it's a draw. } *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: eg k + 2p v k + p rook pawns more room"]
+[Site "https://lichess.org/study/ihw7SunV/Li31dwkx"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "21:23:20"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/pPk5/P7/2K5/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kd3 Kd5 2. Kc2 Kc4 (2... Kd6 3. Kd2 Kc5 4. Kc3 Kd6 5. Kd4 Kc7 6. Kd5 Kb6 7. Kd6 Kb7 8. Kc5 Ka7 9. Kc6 { key point is this: unlike in previouss example, we can enter the space and attack the pawn without giving a stalemate } { [%cal Ra7b7,Ra7b6,Ra7a6,Ga7b8] }) *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: 2 p separated by a file"]
+[Site "https://lichess.org/study/ihw7SunV/ehOM26IY"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "21:35:18"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/3p4/3k4/8/3K4/8/2P1P3/8 w - - 0 1"]
+[SetUp "1"]
+
+1. c4 Ke6 2. c5 Kf6 3. Kd5 Ke7 4. e3 Kf7 5. Kd6 Ke8 6. c6 dxc6 7. Kxc6 Ke7 8. Kd5 Kd7 9. Ke5 Ke7 10. e4 Kd7 11. Kf6 Ke8 12. e5 Kd7 13. e6+ Kc6 14. e7 Kd7 { Important thing here is to do one at the time and simplify to k v k+p that can be won (in front and with opposition) instead of advancing both simultaneously } *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: e.g. K + 2p v P separated by a file"]
+[Site "https://lichess.org/study/ihw7SunV/gGt1WbYq"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "21:38:16"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/3p4/2k5/2P1P3/3K4/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ illustrates the point. too far away, can't get either in a successful k v kp }
+1. Kc4 Kb7 2. c6+ (2. Kd5 Kc7 3. c6 dxc6+ 4. Ke6 c5 5. Kd5 (5. Kf7 c4 6. e6 c3 7. e7 c2 8. e8=Q c1=Q 9. Qe7+ Kc8) 5... Kd7 6. Kxc5 Ke6) 2... Kxc6 3. Kd4 Kc7 4. Kd5 Kd8 5. e6 Ke7 6. exd7 Kxd7 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: e.g. K + 2p v P separated by a file , blacks pov"]
+[Site "https://lichess.org/study/ihw7SunV/8108bnaZ"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "21:41:28"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/1k6/1p6/1K6/P1P5/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ again, draw bc you can't simplify to a winning kp v p }
+1. c5 (1. Kb4 Kc6 2. Ka3 Kc5 3. Kb3 Kc6 4. Kb4 Kc7 5. Kb5 Kb7 6. a5 bxa5 7. Kxa5 Kc6 8. Kb4 Kb6 9. c5+ Kc6 10. Kc4 Kc7 11. Kb5 Kb7 12. c6+ Kc7 13. Kc5 Kc8 14. Kd6 Kd8 15. c7+ Kc8 16. Kd5 Kxc7) 1... bxc5 2. a5 c4 3. Kxc4 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: Trebuchet K + 2p v K + p"]
+[Site "https://lichess.org/study/ihw7SunV/wKyJla3J"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "21:45:59"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/1p6/1K6/2Pk4/8/2P5/8 w - - 0 1"]
+[SetUp "1"]
+
+1. c5 bxc5 2. c4 Ke5 3. Kxc5 Ke6 4. Kc6 { Great illustration of how you use the tools to simplify to a known good instead of calculating endlessly otb } *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: K + 2p v K + p Simplifying to a draw"]
+[Site "https://lichess.org/study/ihw7SunV/vn17Ryj5"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "22:03:25"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/1p6/1K6/2Pk4/8/2P5/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Kc3 2. c5 (2. Kxb6 Kxc4 3. Kc6 Kc3 4. Kd5) 2... bxc5 3. Kxc5 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: e.g K + 2p v K + p simplifying to a draw"]
+[Site "https://lichess.org/study/ihw7SunV/8fIYrZ6D"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "22:27:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/3pk3/8/3KP3/4P3/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ the challenge here really is to find the draw for black. }
+1. Kc4 Ke5 2. Kd3 Kf6 3. Kd4 Ke6 4. e5 { whenever white advances, draw because exchange, otherwise white has to protect it and can't make progress. Draw. } 4... dxe5+ *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: Creating passing pawns out of 3p v 3p"]
+[Site "https://lichess.org/study/ihw7SunV/GCv2tmGD"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "22:30:37"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/5ppp/8/5PPP/8/k7/8/K7 w - - 0 1"]
+[SetUp "1"]
+
+1. g6 hxg6 2. f6 gxf6 3. h6 Kb3 4. h7 g5 5. h8=Q g4 6. Qxf6 g3 7. Qf3+ Kb4 8. Qxg3 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: 3p v 3p Creating passed pawn"]
+[Site "https://lichess.org/study/ihw7SunV/0DLiQH7z"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "22:31:22"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/5ppp/8/5PPP/8/k7/8/K7 w - - 0 1"]
+[SetUp "1"]
+
+1. g6 hxg6 2. f6 gxf6 3. h6 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: K + 2p v K + p Several Triangulations"]
+[Site "https://lichess.org/study/ihw7SunV/TsoSY3gr"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "22:35:36"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/1p6/1P6/3P1k2/3K4/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kc2 { white wants to get in front of its pawn, maybe going around. Black wants to prevent it by getting to e3 at the right time } { [%csl Bb4,Bb5,Gc3,Ge3][%cal Gf3e3] } 1... Kf4 (1... Ke3? { obviously directly going to e3 fails because trebuchet } 2. Kc3 Kf3 3. Kd4) 2. Kb2 (2. Kc3 { Similarly, directly going for it with white fails because trebuchet. } 2... Ke3 3. Kc2 Kf4 4. Kc3 Ke3 5. Kc2 Kf4 6. d4 Kf5 7. Kd3 Kf4 8. d5 Ke5) 2... Kf3 3. Kb3 Kf4 4. Kc2 Ke5 5. Kd1 Kd5 6. Ke2 Kd4 7. Kd2 Kd5 8. Ke3 Ke5 9. d4+ Kd5 10. Kd3 Ke6 11. Ke4 Kd6 12. d5 Ke7 13. Ke5 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: K + 3ps v K + 3ps Complications"]
+[Site "https://lichess.org/study/ihw7SunV/X0piS5RM"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "22:45:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/2p3p1/2p2kP1/4pP1P/4K3/2P5/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. c4 c5 2. Kd5 Kxf5 3. h6 Kxg6 4. hxg7 Kxg7 5. Kxe5 Kf7 6. Kd5 Kf6 7. Kxc5 Ke5 8. Kc6 Kd4 9. c5 Kc4 10. Kxc7 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: K + 2p v K +2p Advantages of side more advanced"]
+[Site "https://lichess.org/study/ihw7SunV/WfJbQRH1"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "22:47:57"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/3pPk2/3P1p2/5K2/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kf3 { black has to stay closer to white's pawn than viceversa. } { [%csl Ge7][%cal Gf6e7] } 1... Kg6 2. Kg2 Kg5 (2... Kf6 3. Kh3 Kg6 4. Kh4 Kf6 5. Kh5 f4 6. Kg4 Kg6 7. Kxf4 Kf6 8. e7 Kxe7 9. Kg5 Kf7 10. Kf5 Ke7 11. Kg6 Ke8 12. Kg7 Ke7 13. Kg6 Kd8 14. Kf6 Kd7 15. Kf7 Kd8 16. Ke6 Kc7 17. Ke7 Kb6 18. Kxd6) *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: e.g. K + 2p v 2P each separated by a file"]
+[Site "https://lichess.org/study/ihw7SunV/k98vuMCH"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "22:54:58"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "6k1/8/5P1P/8/p1p5/8/1K6/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kb1 { First one to advance looses, a sort of conceptual zugzwang } 1... c3 (1... Kf7 2. h7 Kxf6 3. h8=Q+ Kf5 4. Qd4 a3 5. Qxc4) 2. Kc2 a3 3. Kxc3 a2 4. Kb2 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: Chicken in the coop K + 2p v K +2p version"]
+[Site "https://lichess.org/study/ihw7SunV/XC3kwozR"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "22:58:16"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/6k1/6P1/p1K1p2P/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ [%cal Gc5e5,Gc5a5] }
+1... e4 2. Kd4 a4 3. Kxe4 a3 4. Kd3 a2 5. Kc2 a1=Q *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: Not a Chicken in the coop K + 2p v K +2p version"]
+[Site "https://lichess.org/study/ihw7SunV/z3PUYIlK"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "23:01:30"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/6k1/6P1/p2p3P/8/1K6/8/8 b - - 0 1"]
+[SetUp "1"]
+
+1... d4 2. Kc4 a4 (2... Kf6 3. Kxd4 a4 4. Kc3 a3 5. Kb3 a2 6. Kxa2 Kg7 7. Kb3 Kf6 8. Kc4 Kg7 9. Kd5 Kf6 10. Kd6 Kg7 11. Ke5 Kh6 12. Kf5 Kg7 13. Kg5 Kg8 14. Kf6 Kf8 15. g7+ Kg8 16. h6 Kh7 17. Kf7 Kxh6 18. g8=Q) 3. Kxd4 { [%cal Ga4a1,Gd4a1,Ga4d4,Gd4d1] } 3... a3 4. Kc3 a2 5. Kb2 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: K + 3p v K +2p advanced curiosity (black to move wins)"]
+[Site "https://lichess.org/study/ihw7SunV/J7k4lcdD"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "23:04:59"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "6k1/8/5P1P/8/ppp5/8/2K5/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Interestingly in here you can't defend with white against the three pawns. too close }
+1... a3 { [%csl Rc2][%cal Rc2b3,Rc2b2,Rc2c3] } 2. Kb1 b3 { [%csl Rb1][%cal Rb1c2,Rb1b2,Rb1a2] } 3. h7+ Kxh7 4. f7 Kg7 5. f8=Q+ Kxf8 6. Kc1 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: K + 3p v K +2p advanced curiosity (white to move wins)"]
+[Site "https://lichess.org/study/ihw7SunV/htrlOpbk"]
+[Result "*"]
+[UTCDate "2019.10.23"]
+[UTCTime "23:05:27"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "6k1/8/5P1P/8/ppp5/8/2K5/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kb1 { As we saw before black king cannot move without allowing one of the pawns to queen. So the question is can you defend w the king against the three pawns? } 1... c3 (1... b3 2. Kb2 c3+ 3. Kxc3 a3 4. Kxb3)  (1... a3 2. Ka2 b3+ 3. Kxa3) 2. Kc2 b3+ (2... a3 3. Kb3) 3. Kxc3 Kf7 *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: eg. K+p v K+2p mined pawn"]
+[Site "https://lichess.org/study/ihw7SunV/EUCKlTnK"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "01:13:54"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/8/8/4p1p1/8/5P2/6K1/3k4 w - - 0 1"]
+[SetUp "1"]
+
+1. Kh1 Ke2 2. Kg2 Ke3 3. Kg3 Ke2 4. Kg2 Ke3 5. Kg3 { "mined pawn" in the sense that black cannot advance either without creating a passer for white } *
+
+
+[Event "ENDGAMES Pawns 2 - KP vs K2P: K + p v K + 2p 2p trying to draw"]
+[Site "https://lichess.org/study/ihw7SunV/ewX2MC7Q"]
+[Result "*"]
+[UTCDate "2019.10.24"]
+[UTCTime "01:16:55"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/arciniegas"]
+[FEN "8/5p2/8/6Pk/5P2/8/8/7K w - - 0 1"]
+[SetUp "1"]
+
+{ actually only chance for a draw for white is g6 otherwise black gets in front with the opposiiition }
+1. Kg2 (1. g6 fxg6 2. f5 gxf5 3. Kg1 Kg4 4. Kg2 Kf4 5. Kf2) 1... Kg4 2. Kh2 Kxf4 3. g6 fxg6 4. Kg2 Kg4 *
