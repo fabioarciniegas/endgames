@@ -37,3 +37,5 @@ Covers all of silman up to part six (only some extras on the exercises of part 9
 
  [PGN in repo](lichess_study_endgames-pawns-3-outflanking-etc_by_arciniegas_2019.10.24.pgn)
  [lichess](https://lichess.org/study/4LldCtpL)
+
+ 
